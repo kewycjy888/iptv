@@ -28,15 +28,7 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-黄金翡翠,http://hkenlive.uk/livehttpplay?channel_id=13027
-无线娱乐,http://hkenlive.uk/livehttpplay?channel_id=13006
-无线戏曲,http://hkenlive.uk/livehttpplay?channel_id=13026
-无线粤片,http://hkenlive.uk/livehttpplay?channel_id=13021
-无线功夫,http://hkenlive.uk/livehttpplay?channel_id=13024
-无线华剧,http://hkenlive.uk/livehttpplay?channel_id=13023
-无线亚剧,http://hkenlive.uk/livehttpplay?channel_id=13022
-无线亚综,http://hkenlive.uk/livehttpplay?channel_id=13020
-无线赛马,http://hkenlive.uk/livehttpplay?channel_id=13005
+
 国内,#genre#
 广东卫视4K25P,http://ipv4-go.825939.xyz:4033/rtp/239.77.0.65:5146
 广东卫视4K50P,http://ipv4-go.825939.xyz:4033/rtp/239.77.0.66:5146
