@@ -1,7 +1,6 @@
 香港TVB,#genre#
-无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+
 无线新闻,https://yang-1989.eu.org/live/TVB-News-Channel
-翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 now新闻台,http://cdn.163189.xyz/163189/now
 now新闻台,https://yang-1989.eu.org/live/now-332
 now新闻台,http://bxtv.3a.ink/api.php?id=now
@@ -38,9 +37,6 @@ TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线亚剧,http://hkenlive.uk/livehttpplay?channel_id=13022
 无线亚综,http://hkenlive.uk/livehttpplay?channel_id=13020
 无线赛马,http://hkenlive.uk/livehttpplay?channel_id=13005
-now爆谷台,http://hkenlive.uk/livehttpplay?channel_id=13002
-now爆谷星影台,http://hkenlive.uk/livehttpplay?channel_id=13003
-Now英超,http://hkenlive.uk/livehttpplay?channel_id=13007
 国内,#genre#
 广东卫视4K25P,http://ipv4-go.825939.xyz:4033/rtp/239.77.0.65:5146
 广东卫视4K50P,http://ipv4-go.825939.xyz:4033/rtp/239.77.0.66:5146
