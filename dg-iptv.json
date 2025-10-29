@@ -1,11 +1,16 @@
 const channelMap = {
   // 标准名称: 你的服务器名称
-  'CCTV1': 'CCTV -1综合高清',
-  'CCTV2': 'CCTV -2财经高清', 
-  'CCTV7': 'CCTV -7军事农业高清',
-  'CCTV3': 'CCTV -1综合高清',
-  'CCTV10': 'CCTV-10科教高清',
-  'CCTV5+': 'CCTV-5体育',
+  'CCTV1': 'CCTV -1综合高清','CCTV-1综合',
+  'CCTV2': 'CCTV -2财经高清','CCTV-2财经',
+  'CCTV3': 'CCTV -2综艺高清','CCTV-3综艺',
+  'CCTV4': 'CCTV-4中文国际','CCTV-4高清',
+  'CCTV5': 'CCTV-5高清','CCTV-5超清','CCTV-5体育',
+  'CCTV6': 'CCTV-6电影','CCTV-6高清',
+  'CCTV7': 'CCTV -7军事农业高清','CCTV-7高清测试'
+  'CCTV8': 'CCTV-8高清','CCTV-8电视剧'
+  'CCTV9': 'CCTV-9纪录','CCTV-9高清测试'
+  'CCTV10': 'CCTV-10科教高清','CCTV-10科教','CCTV-10高清测试',
+  'CCTV5+': 'CCTV5＋体育高清-测试',
   '广东卫视': '广东4K超高清','广东4K超高清 窄色域 30','广东卫视4k超高清25p'
   
   // ... 继续添加
