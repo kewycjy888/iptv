@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="盗源狗si全家 全家下地狱" tvg-logo="https://live.fanmingming.cn/tv/盗源狗si全家 全家下地狱.png" group-title="极速港台2",盗源狗si全家 全家下地狱
-undefined
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="极速港台2",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠台.png" group-title="极速港台2",华丽翡翠台
