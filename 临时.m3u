@@ -225,8 +225,7 @@ http://vallest.uk/livehttpplay?channel_id=30067
 http://vallest.uk/livehttpplay?channel_id=20203
 #EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://live.fanmingming.cn/tv/RTHK-32.png" group-title="极速港台3",RTHK-32
 http://vallest.uk/livehttpplay?channel_id=30028
-#EXTINF:-1 tvg-name="盗源狗si全家 全家下地狱" tvg-logo="https://live.fanmingming.cn/tv/盗源狗si全家 全家下地狱.png" group-title="极速itv888",盗源狗si全家 全家下地狱
-undefined
+
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="极速itv888",明珠台
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="极速itv888",明珠台
@@ -255,8 +254,7 @@ http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
 #EXTINF:-1 tvg-name="viutv6" tvg-logo="https://live.fanmingming.cn/tv/viutv6.png" group-title="极速itv888",viutv6
 http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
-#EXTINF:-1 tvg-name="盗源狗si全家 全家下地狱" tvg-logo="https://live.fanmingming.cn/tv/盗源狗si全家 全家下地狱.png" group-title="极速bxtv",盗源狗si全家 全家下地狱
-undefined
+
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.cn/tv/myTV SUPER 18台.png" group-title="极速bxtv",myTV SUPER 18台
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="极速bxtv",TVB Plus
@@ -327,8 +325,7 @@ http://bxtv.3a.ink/api.php?id=tvbs
 http://bxtv.3a.ink/api.php?id=gdty
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="极速bxtv",广东珠江
 http://bxtv.3a.ink/api.php?id=gdzj
-#EXTINF:-1 tvg-name="盗源狗si全家 全家下地狱" tvg-logo="https://live.fanmingming.cn/tv/盗源狗si全家 全家下地狱.png" group-title="极速0618",盗源狗si全家 全家下地狱
-undefined
+
 #EXTINF:-1 tvg-name="爆谷台" tvg-logo="https://live.fanmingming.cn/tv/爆谷台.png" group-title="极速0618",爆谷台
 http://j.s.bkpcp.top/js/nowbgt
 #EXTINF:-1 tvg-name="星影台" tvg-logo="https://live.fanmingming.cn/tv/星影台.png" group-title="极速0618",星影台
@@ -782,9 +779,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://live.fanmingming.cn/tv/TVBS台剧.png" group-title="极速风云",TVBS台剧
 http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 #EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://live.fanmingming.cn/tv/纬来戏剧.png" group-title="极速风云",纬来戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港TVB",翡翠台
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港TVB",翡翠台
