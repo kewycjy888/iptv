@@ -124,5 +124,11 @@ http://ipv4.825939.xyz:5141/rtp/239.77.1.20:5146?fcc=183.59.168.166:8027?fcc=183
 http://ipv4.825939.xyz:5141/rtp/239.77.1.21:5146?fcc=183.59.168.166:8027?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png",睛彩广场舞
 http://ipv4.825939.xyz:5141/rtp/239.77.1.23:5146?fcc=183.59.168.166:8027?fcc=183.59.168.166:8027
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台
+http://ipv4.825939.xyz:5141/rtp/239.77.1.189:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://ipv4.825939.xyz:5141/rtp/239.77.1.107:5146?fcc=183.59.168.166:8027
+
 
  
