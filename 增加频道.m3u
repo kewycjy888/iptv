@@ -3,8 +3,6 @@
 http://ipv4.825939.xyz:5141/rtp/239.253.43.71:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png",广州新闻
 http://ipv4.825939.xyz:5141/rtp/239.253.43.72:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png",广州法治
-http://ipv4.825939.xyz:5141/rtp/239.253.43.74:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
 http://ipv4.825939.xyz:5141/rtp/239.77.1.3:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
@@ -111,9 +109,9 @@ http://ipv4.825939.xyz:5141/rtp/239.253.43.75:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.253.43.123:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="梅州客家生活" tvg-logo="https://live.fanmingming.cn/tv/梅州客家生活.png",梅州客家生活
 http://ipv4.825939.xyz:5141/rtp/239.253.43.124:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="阳江1" tvg-logo="https://live.fanmingming.cn/tv/阳江1.png",阳江1
+#EXTINF:-1 tvg-name="阳江1" tvg-logo="https://live.fanmingming.cn/tv/阳江1.png",阳江-1
 http://ipv4.825939.xyz:5141/rtp/239.253.43.82:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="阳江2" tvg-logo="https://live.fanmingming.cn/tv/阳江2.png",阳江2
+#EXTINF:-1 tvg-name="阳江2" tvg-logo="https://live.fanmingming.cn/tv/阳江2.png",阳江-2
 http://ipv4.825939.xyz:5141/rtp/239.253.43.83:5146?fcc=183.59.168.166:8027
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png",睛彩青少
