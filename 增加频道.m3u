@@ -35,7 +35,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.1.244:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.1.67:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="深圳龙岗频道" tvg-logo="https://live.fanmingming.cn/tv/深圳龙岗频道.png",深圳龙岗
 http://ipv4.825939.xyz:5141/rtp/239.77.1.223:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://live.fanmingming.cn/tv/深圳宜和购物.png",深圳宜和购物
+#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://live.fanmingming.cn/tv/深圳宜和购物.png",宜和购物
 http://ipv4.825939.xyz:5141/rtp/239.77.1.87:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="韶关新闻综合" tvg-logo="https://live.fanmingming.cn/tv/韶关新闻综合.png",韶关新闻综合
 http://ipv4.825939.xyz:5141/rtp/239.77.0.117:5146?fcc=183.59.168.166:8027
