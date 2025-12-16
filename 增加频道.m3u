@@ -51,11 +51,11 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.25:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.187:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="江门综合" tvg-logo="https://live.fanmingming.cn/tv/江门综合.png",江门综合
 http://ipv4.825939.xyz:5141/rtp/239.77.0.201:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="HZTV1" tvg-logo="https://live.fanmingming.cn/tv/HZTV1.png",HZTV1
+#EXTINF:-1 tvg-name="HZTV1" tvg-logo="https://live.fanmingming.cn/tv/HZTV1.png",惠州综合
 http://ipv4.825939.xyz:5141/rtp/239.77.1.232:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="HZTV2" tvg-logo="https://live.fanmingming.cn/tv/HZTV2.png",HZTV2
+#EXTINF:-1 tvg-name="HZTV2" tvg-logo="https://live.fanmingming.cn/tv/HZTV2.png",惠州都市生活
 http://ipv4.825939.xyz:5141/rtp/239.77.1.233:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-name="珠海1" tvg-logo="https://live.fanmingming.cn/tv/珠海1.png",珠海1
+#EXTINF:-1 tvg-name="珠海1" tvg-logo="https://live.fanmingming.cn/tv/珠海1.png",珠海
 http://ipv4.825939.xyz:5141/rtp/239.77.0.155:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://live.fanmingming.cn/tv/肇庆综合.png",肇庆综合
 http://ipv4.825939.xyz:5141/rtp/239.253.43.1:5146?fcc=183.59.168.166:8027
