@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="http://ipv4.825939.xyz:8087/iptv/logo/南国都市.png",南国都市4K
+#EXTINF:-1 tvg-name="广州南国都市4K" tvg-logo="http://ipv4.825939.xyz:8087/iptv/logo/广州南国都市4K.png",广州南国都市4K
 http://ipv4.825939.xyz:5141/rtp/239.253.43.99:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="http://ipv4.825939.xyz:8087/iptv/logo/广州综合.png",广州综合
 http://ipv4.825939.xyz:5141/rtp/239.253.43.71:5146?fcc=183.59.168.166:8027
